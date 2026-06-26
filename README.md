@@ -2,7 +2,7 @@
 
 A personal portfolio website for **V. Annapooraninachiyar**, a Computer Science & Engineering student at Sardar Raja College of Engineering, showcasing education, technical skills, internship experience, and certifications.
 
-🔗 **Live Site:[**(https://vannapoorani2006-sudo.github.io/Annapoorani_portfolio/)**]
+🔗 **Live Site:[**(https://vannapoorani2006-sudo.github.io/annapoorani_portfolio/)**]
 
 ---
 
